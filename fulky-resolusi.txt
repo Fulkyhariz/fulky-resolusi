@@ -1,0 +1,7 @@
+fulky resolusi
+ 
+ #include <stdio.h>
+ 
+ int main(){
+     printf("hello world");
+     }
