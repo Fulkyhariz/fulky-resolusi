@@ -5,3 +5,5 @@ fulky resolusi
  int main(){
      printf("hello world");
      }
+ void fungtion(){
+ }
